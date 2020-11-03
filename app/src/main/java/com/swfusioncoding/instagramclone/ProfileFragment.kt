@@ -1,4 +1,4 @@
-package com.example.instagramproject
+package com.swfusioncoding.instagramclone
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,4 +1,4 @@
-package com.example.instagramproject
+package com.swfusioncoding.instagramclone
 
 import android.content.Context
 import android.view.View

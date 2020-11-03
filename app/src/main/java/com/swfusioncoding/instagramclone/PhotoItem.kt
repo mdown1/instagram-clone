@@ -1,4 +1,4 @@
-package com.example.instagramproject
+package com.swfusioncoding.instagramclone
 
 class PhotoItem(val badgeImage: Int) {
 }
